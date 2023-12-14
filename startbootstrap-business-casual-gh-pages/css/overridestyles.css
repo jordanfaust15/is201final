@@ -1,0 +1,58 @@
+
+  /*heading*/
+  .site-heading {
+    color: #011831;
+
+  }
+
+  .site-heading-upper {
+    color: #e0ad73;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; /* Outline color and width */
+        }
+
+  /*paragraphs*/
+  p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.bold {
+  font-weight: 500;
+}
+  
+/*links */
+  a {
+    color: #2a1202;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: #942408;
+  }
+  
+  .homebg {
+    background-image: url('../assets/img/linen.jpeg');
+    background-position: center;}
+
+  .highlightbody 
+  {
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(227, 208, 183, 0.5); /* Tan color with 50% transparency */
+  }
+.headertitle {
+  text-align: center;
+
+}
+.center-img {
+    display: block;
+    margin: 0 auto; /* Setting horizontal margins to auto centers the image */
+}
+.underline
+{
+  text-decoration: underline;
+}
